@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #efd4d4;
+}
+
+#gallery {
+  background-color: #efd4d4;
+  padding: 3rem;
+}
+
+footer {
+  background-color: #efd4d4;
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+a {
+  display: block;
+  margin-right: 0.5em;
+  text-align: center;
+}
